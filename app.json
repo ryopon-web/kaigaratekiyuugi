@@ -5,7 +5,7 @@
     "icons": [{
           "src": "/Users/ryopon/Desktop/VSCode Projects/ウェブサイト制作/貝殻的遊戯　公式サイト/GitHubPage/kaigaratekiyuugi/channels4_profile.jpg",
           "sizes": "144x144",
-          "type": "image/png"
+          "type": "png"
         }],
     "start_url": "index.html",
     "display": "standalone"
